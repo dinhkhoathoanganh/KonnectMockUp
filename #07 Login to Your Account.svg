@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <filter id="Key_Background" x="129" y="688" width="117" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-2" x="252" y="634" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-3" x="129" y="634" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle" x="6" y="634" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-4" x="252" y="580" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-5" x="129" y="580" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-6" x="6" y="580" width="117" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-7" x="252" y="527" width="117" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-8" x="129" y="527" width="117" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key_Background-9" x="6" y="527" width="117" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H15V15H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_07_Login_to_Your_Account">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="_07_Login_to_Your_Account" data-name="#07 Login to Your Account" clip-path="url(#clip-_07_Login_to_Your_Account)">
+    <rect width="375" height="812" fill="#553fa5"/>
+    <g id="iPhone_X_Keyboards_Light_Numeric" data-name="iPhone X/Keyboards/Light/Numeric" transform="translate(0 521)">
+      <rect id="Background" width="375" height="291" fill="rgba(210,213,219,0.9)"/>
+      <g id="iPhone_X_Home_Indicator_Home_Indicator_-_On_Light" data-name="iPhone X/Home Indicator/Home Indicator - On Light" transform="translate(121 277)">
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="134" height="5" rx="2.5"/>
+      </g>
+      <path id="Dictation" d="M11.5,25h-8a.833.833,0,0,1,0-1.667h.03v-.011H6.677V20.787A7.547,7.547,0,0,1,0,13.28c0-.02,0-.039,0-.058s0-.03,0-.045V11.267a.762.762,0,0,1-.006-.1.833.833,0,0,1,1.667,0c0,.027,0,.055,0,.086v2.29l0,.008c0,.014,0,.029,0,.044s0,.031,0,.046v.313h.016a5.871,5.871,0,0,0,5.645,5.377H7.66a5.87,5.87,0,0,0,5.647-5.377h.02V11.174h.006v-.01a.833.833,0,0,1,1.667,0,.738.738,0,0,1,0,.077V13.28h-.01a7.558,7.558,0,0,1-6.66,7.507v2.534h3.14v.011H11.5A.833.833,0,0,1,11.5,25Zm-4-7a4.513,4.513,0,0,1-4.264-3.237,6.18,6.18,0,0,1-.206-1.343C3,12.949,3,12.463,3,11.994V7.664c0-.131,0-.378,0-.679,0-.847,0-2.128,0-2.4a4.772,4.772,0,0,1,.234-1.344,4.426,4.426,0,0,1,8.527,0,6.373,6.373,0,0,1,.234,1.344c.022.371.011,1.606,0,2.423,0,.291,0,.53,0,.661v4.264c0,.491,0,1-.028,1.486a6.291,6.291,0,0,1-.206,1.343,4.393,4.393,0,0,1-1.584,2.307A4.344,4.344,0,0,1,7.5,17.994Zm0-16.327a2.754,2.754,0,0,0-1.682.576,2.823,2.823,0,0,0-.994,1.487,4.439,4.439,0,0,0-.143.86c-.018.23-.015,1.7-.011,3.922,0,1.219,0,2.6,0,4.151,0,.323,0,.428.02.747a4.141,4.141,0,0,0,.13.859,2.816,2.816,0,0,0,.994,1.487,2.739,2.739,0,0,0,3.363,0,2.825,2.825,0,0,0,.99-1.487,3.915,3.915,0,0,0,.13-.859c.021-.324.027-.432.027-.747,0-1.864,0-3.512.009-4.837.005-1.816.009-3.015,0-3.236a4,4,0,0,0-.16-.86,2.832,2.832,0,0,0-.99-1.487A2.754,2.754,0,0,0,7.5,1.667Z" transform="translate(330 241.003)" fill="#50555c"/>
+      <path id="Dictation-2" data-name="Dictation" d="M11.5,25h-8a.833.833,0,0,1,0-1.667h.03v-.011H6.677V20.787A7.547,7.547,0,0,1,0,13.28c0-.02,0-.039,0-.058s0-.03,0-.045V11.267a.762.762,0,0,1-.006-.1.833.833,0,0,1,1.667,0c0,.027,0,.055,0,.086v2.29l0,.008c0,.014,0,.029,0,.044s0,.031,0,.046v.313h.016a5.871,5.871,0,0,0,5.645,5.377H7.66a5.87,5.87,0,0,0,5.647-5.377h.02V11.174h.006v-.01a.833.833,0,0,1,1.667,0,.738.738,0,0,1,0,.077V13.28h-.01a7.558,7.558,0,0,1-6.66,7.507v2.534h3.14v.011H11.5A.833.833,0,0,1,11.5,25Zm-4-7a4.513,4.513,0,0,1-4.264-3.237,6.18,6.18,0,0,1-.206-1.343C3,12.949,3,12.463,3,11.994V7.664c0-.131,0-.378,0-.679,0-.847,0-2.128,0-2.4a4.772,4.772,0,0,1,.234-1.344,4.426,4.426,0,0,1,8.527,0,6.373,6.373,0,0,1,.234,1.344c.022.371.011,1.606,0,2.423,0,.291,0,.53,0,.661v4.264c0,.491,0,1-.028,1.486a6.291,6.291,0,0,1-.206,1.343,4.393,4.393,0,0,1-1.584,2.307A4.344,4.344,0,0,1,7.5,17.994Zm0-16.327a2.754,2.754,0,0,0-1.682.576,2.823,2.823,0,0,0-.994,1.487,4.439,4.439,0,0,0-.143.86c-.018.23-.015,1.7-.011,3.922,0,1.219,0,2.6,0,4.151,0,.323,0,.428.02.747a4.141,4.141,0,0,0,.13.859,2.816,2.816,0,0,0,.994,1.487,2.739,2.739,0,0,0,3.363,0,2.825,2.825,0,0,0,.99-1.487,3.915,3.915,0,0,0,.13-.859c.021-.324.027-.432.027-.747,0-1.864,0-3.512.009-4.837.005-1.816.009-3.015,0-3.236a4,4,0,0,0-.16-.86,2.832,2.832,0,0,0-.99-1.487A2.754,2.754,0,0,0,7.5,1.667Z" transform="translate(330 241.003)" fill="#50555c"/>
+      <path id="Delete" d="M16.733,18H10.841c-.1,0-.214,0-.317,0l-.193,0a8.027,8.027,0,0,1-1.2-.106A4.313,4.313,0,0,1,7.9,17.476a4.178,4.178,0,0,1-1.043-.754c-.024-.023-.038-.037-.092-.094l-.033-.035-.007-.008c-.133-.127-.218-.211-.292-.286-.133-.13-.236-.232-.345-.343L3.847,13.719l-.076-.073-.165-.163-.205-.2L1.337,11.218l-.043-.044-.06-.06-.1-.1-.086-.087-.075-.077a7.3,7.3,0,0,1-.5-.543,1.9,1.9,0,0,1-.344-.523L.113,9.72a2.329,2.329,0,0,1,0-1.44l.023-.063a1.8,1.8,0,0,1,.345-.523,5.935,5.935,0,0,1,.481-.531c.049-.054.092-.1.175-.182l.094-.095.052-.052.05-.05L3.388,4.733c.064-.067.122-.125.211-.212l.086-.084c.025-.026.049-.049.071-.07l.021-.02,2.3-2.3c.1-.1.188-.19.34-.337.095-.1.194-.2.305-.3l.045-.049c.049-.052.063-.066.072-.074A4.2,4.2,0,0,1,7.9.523,4.24,4.24,0,0,1,9.13.116,7.267,7.267,0,0,1,10.319.01l.2-.005c.1,0,.212,0,.317,0h6.486c.148,0,.261,0,.5.009a7.5,7.5,0,0,1,1.2.106,4.248,4.248,0,0,1,1.235.408,4.133,4.133,0,0,1,1.06.77A4.22,4.22,0,0,1,22.1,2.354a4.483,4.483,0,0,1,.406,1.237,8.019,8.019,0,0,1,.1,1.18c0,.1,0,.176.006.322v.068l0,.133v7.412c0,.172,0,.339-.009.512a8.108,8.108,0,0,1-.1,1.2,4.442,4.442,0,0,1-.41,1.238,4.28,4.28,0,0,1-.767,1.053,4.166,4.166,0,0,1-1.059.77,4.268,4.268,0,0,1-1.237.408,7.778,7.778,0,0,1-1.187.105c-.263.007-.374.01-.519.01Z" transform="translate(301.882 180)" fill="#50555c"/>
+      <g id="_0" data-name="0" transform="translate(129 167)">
+        <g transform="matrix(1, 0, 0, 1, -129, -688)" filter="url(#Key_Background)">
+          <rect id="Key_Background-10" data-name="Key Background" width="117" height="46" rx="5" transform="translate(129 688)" fill="#fff"/>
+        </g>
+        <text id="_" data-name="#" transform="translate(0 8)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">0</tspan></text>
+      </g>
+      <g id="_9" data-name="9" transform="translate(252 113)">
+        <g transform="matrix(1, 0, 0, 1, -252, -634)" filter="url(#Key_Background-2)">
+          <rect id="Key_Background-11" data-name="Key Background" width="117" height="47" rx="5" transform="translate(252 634)" fill="#fff"/>
+        </g>
+        <text id="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="42.265" y="11">WXYZ</tspan></text>
+        <text id="_2" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">9</tspan></text>
+      </g>
+      <g id="_8" data-name="8" transform="translate(129 113)">
+        <g transform="matrix(1, 0, 0, 1, -129, -634)" filter="url(#Key_Background-3)">
+          <rect id="Key_Background-12" data-name="Key Background" width="117" height="47" rx="5" transform="translate(129 634)" fill="#fff"/>
+        </g>
+        <text id="ABC-2" data-name="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="47.34" y="11">TUV</tspan></text>
+        <text id="_3" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">8</tspan></text>
+      </g>
+      <g id="_7" data-name="7" transform="translate(6 113)">
+        <g transform="matrix(1, 0, 0, 1, -6, -634)" filter="url(#Rectangle)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="117" height="47" rx="5" transform="translate(6 634)" fill="#fff"/>
+        </g>
+        <text id="ABC-3" data-name="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="43.283" y="11">PQRS</tspan></text>
+        <text id="_4" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">7</tspan></text>
+      </g>
+      <g id="_6" data-name="6" transform="translate(252 59)">
+        <g transform="matrix(1, 0, 0, 1, -252, -580)" filter="url(#Key_Background-4)">
+          <rect id="Key_Background-13" data-name="Key Background" width="117" height="47" rx="5" transform="translate(252 580)" fill="#fff"/>
+        </g>
+        <text id="ABC-4" data-name="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="44.5" y="11">MNO</tspan></text>
+        <text id="_5" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">6</tspan></text>
+      </g>
+      <g id="_5-2" data-name="5" transform="translate(129 59)">
+        <g transform="matrix(1, 0, 0, 1, -129, -580)" filter="url(#Key_Background-5)">
+          <rect id="Key_Background-14" data-name="Key Background" width="117" height="47" rx="5" transform="translate(129 580)" fill="#fff"/>
+        </g>
+        <text id="ABC-5" data-name="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="49.461" y="11">JKL</tspan></text>
+        <text id="_6-2" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">5</tspan></text>
+      </g>
+      <g id="_4-2" data-name="4" transform="translate(6 59)">
+        <g transform="matrix(1, 0, 0, 1, -6, -580)" filter="url(#Key_Background-6)">
+          <rect id="Key_Background-15" data-name="Key Background" width="117" height="47" rx="5" transform="translate(6 580)" fill="#fff"/>
+        </g>
+        <text id="ABC-6" data-name="ABC" transform="translate(0 30)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="48.189" y="11">GHI</tspan></text>
+        <text id="_7-2" data-name="#" transform="translate(0 1.5)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">4</tspan></text>
+      </g>
+      <g id="_3-2" data-name="3" transform="translate(252 6)">
+        <g transform="matrix(1, 0, 0, 1, -252, -527)" filter="url(#Key_Background-7)">
+          <rect id="Key_Background-16" data-name="Key Background" width="117" height="46" rx="5" transform="translate(252 527)" fill="#fff"/>
+        </g>
+        <text id="ABC-7" data-name="ABC" transform="translate(0 29)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="48.023" y="11">DEF</tspan></text>
+        <text id="_8-2" data-name="#" transform="translate(0 1)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">3</tspan></text>
+      </g>
+      <g id="_2-2" data-name="2" transform="translate(129 6)">
+        <g transform="matrix(1, 0, 0, 1, -129, -527)" filter="url(#Key_Background-8)">
+          <rect id="Key_Background-17" data-name="Key Background" width="117" height="46" rx="5" transform="translate(129 527)" fill="#fff"/>
+        </g>
+        <text id="ABC-8" data-name="ABC" transform="translate(0 29)" fill="#030303" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="47.313" y="11" letter-spacing="0.2em">AB</tspan><tspan y="11">C</tspan></text>
+        <text id="_9-2" data-name="#" transform="translate(0 1)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">2</tspan></text>
+      </g>
+      <g id="_1" data-name="1" transform="translate(6 6)">
+        <g transform="matrix(1, 0, 0, 1, -6, -527)" filter="url(#Key_Background-9)">
+          <rect id="Key_Background-18" data-name="Key Background" width="117" height="46" rx="5" transform="translate(6 527)" fill="#fff"/>
+        </g>
+        <text id="_10" data-name="#" transform="translate(0 1)" fill="#030303" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="0.012em"><tspan x="51.762" y="27">1</tspan></text>
+      </g>
+    </g>
+    <g id="Sign_Up" data-name="Sign Up" transform="translate(81 476)">
+      <text id="Sign_Up-2" data-name="Sign Up" transform="translate(150 17)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.024em"><tspan x="0" y="0">Sign Up</tspan></text>
+      <g id="Muted" opacity="0.4">
+        <text id="Label" transform="translate(0 17)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.024em"><tspan x="0" y="0">Not yet a member?</tspan></text>
+      </g>
+    </g>
+    <g id="Form" transform="translate(16 246)">
+      <g id="Button" transform="translate(0 155)">
+        <rect id="Button-2" data-name="Button" width="343" height="50" rx="25"/>
+        <text id="Place_order" data-name="Place order" transform="translate(171.5 33)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="0.013em"><tspan x="-35.967" y="0">SIGN IN</tspan></text>
+        <g id="Group_3" data-name="Group 3" transform="translate(11 11)">
+          <path id="Clip_2-2" data-name="Clip 2" d="M0,0H15V15H0Z" fill="none"/>
+          <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Fill_1" data-name="Fill 1" d="M15,1.078a1.078,1.078,0,0,1-1.078,1.078A11.78,11.78,0,0,0,2.156,13.922a1.078,1.078,0,1,1-2.156,0A13.937,13.937,0,0,1,13.922,0,1.078,1.078,0,0,1,15,1.078" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Forgot_password" data-name="Forgot password" transform="translate(239 121)" opacity="0.4">
+        <text id="Forgot_password-2" data-name="Forgot password" transform="translate(0 14)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" letter-spacing="-0.006em"><tspan x="0" y="0">Forgot password</tspan></text>
+      </g>
+      <g id="Text_Field" data-name="Text Field" transform="translate(0 62)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="343" height="46" rx="5" fill="#433088"/>
+        <text id="_Text" data-name="↳ Text" transform="translate(16 29)" fill="rgba(255,255,255,0.4)" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="-0.016em"><tspan x="0" y="0">Password</tspan></text>
+      </g>
+      <g id="Text_Field-2" data-name="Text Field">
+        <rect id="Rectangle-4" data-name="Rectangle" width="343" height="46" rx="5" fill="#433088"/>
+        <text id="_Text-2" data-name="↳ Text" transform="translate(16 29)" fill="rgba(255,255,255,0.4)" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="-0.016em"><tspan x="0" y="0">Username</tspan></text>
+      </g>
+    </g>
+    <text id="Text" transform="translate(16 136)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="116.124" y="28">Login to</tspan></text>
+    <g id="_iPhone_Xs_Bars_Navigation_Large" data-name="• iPhone Xs / Bars | Navigation Large" transform="translate(-1)">
+      <g id="Top_Left" data-name="Top Left" transform="translate(17 52)">
+        <g id="Glyph" transform="translate(2 4)">
+          <path id="Combined_Shape" data-name="Combined Shape" d="M9.587,20a1,1,0,0,1-.705-.291l-8.3-8.282a1.994,1.994,0,0,1,0-2.823L8.911.292A1,1,0,0,1,10.325,1.7L3.854,8.166a.5.5,0,0,0,.353.852H15v2H4.207a.5.5,0,0,0-.353.851l6.44,6.429A1,1,0,0,1,9.587,20Zm13.82-8.985H19v-2h4.407a.994.994,0,0,1,1,.985A1.007,1.007,0,0,1,23.407,11.015Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="iPhone_X_Status_Bars_Status_Bar_Black_" data-name="iPhone X/Status Bars/Status Bar (Black)" transform="translate(1)">
+        <g id="iPhone_X_Status_Bars_Status_Bar_Black_2" data-name="iPhone X/Status Bars/Status Bar (Black)">
+          <rect id="Rectangle-5" data-name="Rectangle" width="375" height="44" fill="none"/>
+          <g id="Battery" transform="translate(336 17)">
+            <g id="Border" transform="translate(0 0.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+              <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+              <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+            </g>
+            <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 4)" fill="#fff" opacity="0.4"/>
+            <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2.333)" fill="#fff"/>
+          </g>
+          <path id="Wifi" d="M7.415,10.873l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.31.31,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016a.311.311,0,0,1-.443,0Zm3.515-3.53a4.9,4.9,0,0,0-6.585,0,.311.311,0,0,1-.434-.006L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.005.459L11.364,7.337a.311.311,0,0,1-.434.006Zm2.66-2.687a8.64,8.64,0,0,0-11.907,0,.309.309,0,0,1-.434,0L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.323.323,0,0,1,0,.456L14.023,4.652a.307.307,0,0,1-.433,0Z" transform="translate(315.694 17.331)" fill="#fff"/>
+          <path id="Cellular_Connection" data-name="Cellular Connection" d="M15,10.667a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667a1,1,0,0,1-1,1Zm-4.667,0a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667a1,1,0,0,1-1,1Zm-4.667,0a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1ZM1,10.667a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1Z" transform="translate(293.667 17.667)" fill="#fff"/>
+          <g id="Time_Style" data-name="Time Style" transform="translate(21 15)">
+            <text id="_Time" data-name="↳ Time" transform="translate(0 0.5)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="14.582" y="15" letter-spacing="-0.02em">9:4</tspan><tspan y="15">1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Hotspot" width="51" height="44" transform="translate(7 44)" fill="none"/>
+  </g>
+</svg>

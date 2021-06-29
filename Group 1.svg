@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88.666" height="107.351" viewBox="0 0 88.666 107.351">
+  <g id="Group_1" data-name="Group 1" transform="translate(-148 -328)">
+    <g id="Group" transform="translate(133 344)">
+      <circle id="Oval" cx="40" cy="40" r="40" transform="translate(15.745 3)" fill="#fff"/>
+    </g>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="matrix(0.914, -0.407, 0.407, 0.914, 149.334, 386.934)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="29.5" cy="26.5" rx="29.5" ry="26.5" transform="translate(7)" fill="#553fa5"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="36" cy="21.5" rx="36" ry="21.5" fill="#fff"/>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="9" cy="9.5" rx="9" ry="9.5" transform="translate(201 368)" fill="#553fa5"/>
+    <text id="K" transform="translate(149 408)" fill="#553fa5" stroke="rgba(255,255,255,0)" stroke-width="1" font-size="90" font-family="ForteMT, Forte"><tspan x="0" y="0">K</tspan></text>
+  </g>
+</svg>
